@@ -1,2 +1,2 @@
 # My-CV
-My fist project
+My first project
