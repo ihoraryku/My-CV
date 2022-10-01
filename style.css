@@ -21,7 +21,7 @@ strong{
 .about {
   display: flex;
   padding: 32px 40px 24px 40px;
-  background-color: #07575B;
+  background-color: #2b4e78;
   color: white;
 }
 
@@ -79,11 +79,11 @@ justify-content: space-between;
   font-weight: 500;
   font-size: 20px;
   line-height: 100%;
-  color: #07575B;
+  color: #2b4e78;
 }
 
 .info__content{
-width: 360px;
+width: 390px;
 
 }
 /* #endregion */
